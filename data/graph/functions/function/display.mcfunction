@@ -1,0 +1,1 @@
+execute if score undefined calculations matches 0 run function graph:function/displayplace

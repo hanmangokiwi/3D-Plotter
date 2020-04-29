@@ -1,0 +1,2 @@
+execute if score y y matches 41..47 run fill ~0.5 ~ ~0.5 ~0.5 ~ ~0.5 gray_stained_glass replace air
+execute if score y y matches 48..53 run fill ~0.5 ~ ~0.5 ~0.5 ~ ~0.5 light_gray_stained_glass replace air

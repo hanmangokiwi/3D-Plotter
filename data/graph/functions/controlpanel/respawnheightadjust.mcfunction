@@ -1,0 +1,2 @@
+execute unless entity @e[type=area_effect_cloud,tag=downroom] run summon area_effect_cloud ~1 ~ ~ {Duration:2147483637,Tags:[downroom,heightadjuster]}
+execute unless entity @e[type=area_effect_cloud,tag=uproom] run summon area_effect_cloud ~-1 ~ ~ {Duration:2147483637,Tags:[uproom,heightadjuster]}

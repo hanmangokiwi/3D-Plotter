@@ -1,0 +1,2 @@
+execute if block -13 109 -49 lever[powered=false] as @e[type=area_effect_cloud,tag=point,tag=notgraphed,limit=1,sort=nearest] at @s run function graph:function/function
+execute if block -13 109 -49 lever[powered=true] as @e[type=area_effect_cloud,tag=point,tag=notgraphed,limit=10,sort=nearest] at @s run function graph:function/function
